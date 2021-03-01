@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-challenge-amazon-clone-master/static/css/main.78c7c615.chunk.css",
+    "main.js": "/react-challenge-amazon-clone-master/static/js/main.1d7f63dd.chunk.js",
+    "main.js.map": "/react-challenge-amazon-clone-master/static/js/main.1d7f63dd.chunk.js.map",
+    "runtime-main.js": "/react-challenge-amazon-clone-master/static/js/runtime-main.437ee195.js",
+    "runtime-main.js.map": "/react-challenge-amazon-clone-master/static/js/runtime-main.437ee195.js.map",
+    "static/js/2.167e041b.chunk.js": "/react-challenge-amazon-clone-master/static/js/2.167e041b.chunk.js",
+    "static/js/2.167e041b.chunk.js.map": "/react-challenge-amazon-clone-master/static/js/2.167e041b.chunk.js.map",
+    "index.html": "/react-challenge-amazon-clone-master/index.html",
+    "precache-manifest.ff051150466cbf2274e843fb0e55d8fe.js": "/react-challenge-amazon-clone-master/precache-manifest.ff051150466cbf2274e843fb0e55d8fe.js",
+    "service-worker.js": "/react-challenge-amazon-clone-master/service-worker.js",
+    "static/css/main.78c7c615.chunk.css.map": "/react-challenge-amazon-clone-master/static/css/main.78c7c615.chunk.css.map",
+    "static/js/2.167e041b.chunk.js.LICENSE.txt": "/react-challenge-amazon-clone-master/static/js/2.167e041b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.437ee195.js",
+    "static/js/2.167e041b.chunk.js",
+    "static/css/main.78c7c615.chunk.css",
+    "static/js/main.1d7f63dd.chunk.js"
+  ]
+}
